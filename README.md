@@ -1,3 +1,3 @@
 # Shuffly-Website
 
-http://pierfrancescosoffritti.github.io/pierfrancescosoffritti.com/
+http://pierfrancescosoffritti.github.io/Shuffly-Website/
