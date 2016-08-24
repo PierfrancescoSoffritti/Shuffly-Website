@@ -5,8 +5,6 @@
 	Solid State by HTML5 UP
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 /* Reset */
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -3052,10 +3050,17 @@
 		}
 
 			#banner .logo .icon {
-				display: inline-block;
-				height: 16em;
-				width: 16em;
-				float: right;
+				border-radius: 100%;
+ -				border: solid 2px rgba(255, 255, 255, 0.125);
+ -				cursor: default;
+  				display: inline-block;
+ -				font-size: 2em;
+ -				height: 2.25em;
+ -				line-height: 2.25em;
+ -				text-align: center;
+ -				width: 2.25em;
+ +				height: 16em;
+ +				width: 16em;
 			}
 
 		#banner h2 {
